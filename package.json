@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://ivan123.github.io/Figma/"
+  "homepage": "https://github.com/istmvera2092-sys/Figma/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

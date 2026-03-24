@@ -1,9 +1,9 @@
 {
-  "name": "englishcoursefigma",
+  "name": "Figma",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/istmvera2092-sys/Figma/",
+  "homepage": "https://istmvera2092-sys.github.io/Figma/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
